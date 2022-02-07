@@ -5,9 +5,9 @@ https://drive.google.com/file/d/1y-8e-Mn3j9APaWWJnSIgCG4HxYG1Bxvw/view?usp=shari
 ## Here are some images showing different states of the system:
 ### This is what the overall system disgram looks like. <br>
 ![](images/image8.png)<br>
-### This is what idel state looks like<br>
+### This is what idle state looks like.<br>
 ![](images/image7.png)<br>
-### This is what a correct attendence looks like<br>
+### This is what a correct attendence looks like.<br>
 ![](images/image9.png)<br>
 ### This is when someone unregistered tries to get in.<br>
 ![](images/image11.png)<br>
